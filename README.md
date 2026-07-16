@@ -35,7 +35,7 @@ pip install Pillow httpx
 
 ## 致谢
 
-- 原版插件概念来自 玲子 (manga-image-translator 插件)
+- 原版插件概念来自  (manga-image-translator 插件)
 - 翻译服务由 [Cotrans](https://cotrans.touhou.ai/) (VoileLabs) 提供
 
 ## 许可
